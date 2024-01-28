@@ -7,6 +7,7 @@ Greetings! 👋 I'm Charlie, a Junior Full Stack Developer specializing in JavaS
 
 The goal is to create a basic HTTP server that performs CRUD operations on Quotes and Authors in a database. Through this project, I want to explore different programming languages to understand their strengths and challenges in building such applications. Additionally, I'm on a quest to find which language I enjoy using the most. This journey is as much about learning as it is about uncovering the distinctive features and individual traits of each language.
 
+## Language Status
 - C
     - Status: ❎
 - C++ 
