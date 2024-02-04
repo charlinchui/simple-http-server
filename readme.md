@@ -58,7 +58,8 @@ The goal is to create a basic HTTP server that performs CRUD operations on Quote
 - Racket  
     - Status:❎
 - Ruby  
-    - Status:❎
+    - Rails:
+        - Status: ✅
 - Rust  
     - Status:❎
 
